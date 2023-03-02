@@ -1,6 +1,9 @@
 # Workout Tracker 
 A web application built with HTML, CSS, JavaScript, React, Express, Node.js, and MongoDB that allows users to track their workouts.
 
+![image](https://user-images.githubusercontent.com/91674419/222504313-fcad0023-39a7-4a91-b77e-ec857deff4f3.png)
+
+
 ## Features
 * Users can create new workouts and add exercises to existing workouts
 * Users can view their workout history and statistics
